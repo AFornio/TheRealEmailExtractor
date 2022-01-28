@@ -1,0 +1,12 @@
+{
+  "name": "TheRealEmailExtractor",
+  "version": "1.0.0",
+  "description": "Extract emails from a website with puppeter",
+  "main": "index.js",
+  "repository": "https://github.com/AFornio/TheRealEmailExtractor.git",
+  "author": "Agustin Fornio",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^13.1.2"
+  }
+}
