@@ -9,6 +9,9 @@ You just have to input the url and the bot will write into a file the emails tha
 
 ## HOW TO INSTALL
 
+* it's built on [puppeteer](https://github.com/puppeteer/puppeteer)
+
+
 COPY & PASTE
 ```
 git clone https://github.com/AFornio/TheRealEmailExtractor.git;
