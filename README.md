@@ -1,7 +1,5 @@
 # TheRealEmailExtractor
 
-I can't believe no one did this before. 
-
 This is a simple, yet powerful, email extractor for any website. 
 
 You just have to input the url and the bot will write into a file the emails that was able to find.
@@ -41,7 +39,8 @@ For each of anchor tags will try to visit each link (2 depth) and extract the em
 ```
 node index.js https://github.com/ 2
 ```
-**SPOILER:** It may take some time to run it with the "2" depth
+**SPOILER:** It may take some time to run it with the 2 depth
 
+*All founded emails are written into emails.json file
 
 ### ENJOY
